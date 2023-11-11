@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi there 👋
+
+I'm currenly training at ENI Informatique School to become a Web and mobile Web developer. I'm learning HTML/CSS, Javascript, Java and PHP/Symphony.
+
+Before that, I worked for 5 years in a company that fights against food waste as an administrative assistant.
+
+At the moment, I don't have any projects but in the future I'll post my first project and I'll very happy if anyone helps me improve my code.
+
+If anyone has an idea for a project that's easy to make, I'd be delighted to work on it. 
+
+See you soon!
 
 <!--
 **ItsYou486/ItsYou486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
